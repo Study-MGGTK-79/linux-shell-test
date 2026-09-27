@@ -1,0 +1,17 @@
+Sep 21 09:01:02 host sshd[1201]: Failed password for invalid user admin from 203.0.113.44 port 41001 ssh2
+Sep 21 09:01:08 host sshd[1202]: Failed password for invalid user admin from 203.0.113.44 port 41002 ssh2
+Sep 21 09:01:15 host sshd[1203]: Failed password for invalid user admin from 203.0.113.44 port 41003 ssh2
+Sep 21 09:02:01 host sshd[1204]: Failed password for student from 198.51.100.17 port 42001 ssh2
+Sep 21 09:03:44 host sshd[1205]: Accepted password for student from 198.51.100.17 port 42002 ssh2
+Sep 21 09:04:10 host sudo[1206]: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/usr/bin/id
+Sep 21 09:10:01 host sshd[1207]: Failed password for root from 203.0.113.44 port 41004 ssh2
+Sep 21 09:10:07 host sshd[1208]: Failed password for root from 203.0.113.44 port 41005 ssh2
+Sep 21 09:10:13 host sshd[1209]: Failed password for root from 203.0.113.44 port 41006 ssh2
+Sep 21 09:10:19 host sshd[1210]: Failed password for root from 203.0.113.44 port 41007 ssh2
+Sep 21 09:12:30 host sshd[1211]: Invalid user backup from 192.0.2.55 port 43001
+Sep 21 09:14:02 host sshd[1212]: Accepted password for backup from 192.0.2.55 port 43002 ssh2
+Sep 21 09:15:19 host sudo[1213]: backup : TTY=pts/1 ; PWD=/var/backups ; USER=root ; COMMAND=/bin/tar
+Sep 21 09:20:01 host sshd[1214]: Failed password for guest from 198.51.100.17 port 42003 ssh2
+Sep 21 09:21:11 host sshd[1215]: session opened for user student by (uid=0)
+Sep 21 09:25:00 host kernel: audit: suspicious connection from 203.0.113.44
+Sep 21 09:26:00 host kernel: audit: suspicious connection from 192.0.2.55
