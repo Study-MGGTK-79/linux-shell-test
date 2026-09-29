@@ -1,2 +1,0 @@
-Quick start guide for the project.
-Run python main.py to start.
